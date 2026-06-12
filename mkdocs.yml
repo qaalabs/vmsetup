@@ -1,13 +1,16 @@
 # Site name
-site_name: SITE NAME
+site_name: GoToMyPC VM
 dev_addr: '0.0.0.0:8000'
 
 # Navigation menu
 nav:
-  - Overview: index.md
+  - Allocations: index.md
+  - Instructions: instructions.md
 
 # Theme
 theme:
+    palette:
+      primary: green
     features:
       - toc.integrate
       - content.code.copy
@@ -58,3 +61,5 @@ markdown_extensions:
 
 plugins:
   - search
+  - glightbox
+
