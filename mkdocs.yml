@@ -8,6 +8,27 @@ nav:
   - Instructions: instructions.md
   - Learn on Demand: lod.md
 
+not_in_nav: |
+  404.md
+  PC01.md
+  PC02.md
+  PC03.md
+  PC04.md
+  PC05.md
+  PC06.md
+  PC07.md
+  PC08.md
+  PC09.md
+  PC10.md
+  PC11.md
+  PC12.md
+  PC13.md
+  PC14.md
+  PC15.md
+  PC16.md
+  PC17.md
+  PC18.md
+
 # Theme
 theme:
     palette:
@@ -17,7 +38,7 @@ theme:
       - content.code.copy
     name: material
     icon:
-      logo: material/database
+      logo: material/laptop
     static_templates:
       - 404.html
 
@@ -63,4 +84,5 @@ markdown_extensions:
 plugins:
   - search
   - glightbox
+  - open-in-new-tab
 
