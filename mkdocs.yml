@@ -1,11 +1,12 @@
 # Site name
-site_name: GoToMyPC VM
+site_name: Virtual Machines
 dev_addr: '0.0.0.0:8000'
 
 # Navigation menu
 nav:
   - Allocations: index.md
   - Instructions: instructions.md
+  - Learn on Demand: lod.md
 
 # Theme
 theme:
