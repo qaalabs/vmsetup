@@ -2,22 +2,28 @@
 
 !!! info "You will need the **Email Address**, **Password**, and **Access Code** provided by your trainer to complete these steps."
 
+!!! warning "If you enter an incorrect password 3 times, the account will be locked out for 5 mins!"
+    - It is important that a reconnect **is not attempted** during this period otherwise the time out will be extended
+    - The account will always reset after that 5 min period with the same credentials
+    - **Do not** attempt to change the password and **do not** click the "forgot password" link
+
 
 ## Step 1: Sign in to GoToMyPC
 
-1. Open a browser and go to [gotomypc.com](https://www.gotomypc.com/)
+1. Open the GoToMyPC link from your setup page.
 
 2. Enter the **Email Address** and **Password** provided by your trainer and click **Sign In**.
 
     !!! quote ""
-        ![GoToMyPC sign in](img/main-logon.png)
+        ![Learner GoToMyPC sign in](img/learner-logon.png)
 
 
 ## Step 2: Enter the Access Code
 
 1. When prompted, enter the **Access Code** provided by your trainer and click **Connect**.
 
-    <!-- screenshot needed: img/gotomypc-access-code.png -->
+    !!! quote ""
+        ![GoToMyPC access code](img/access-code.png)
 
 
 ## Step 3: Connect to your virtual machine
@@ -38,7 +44,8 @@ Before you start working, change two settings in GoToMyPC to avoid interruptions
 
 2. On the **Viewer** tab, uncheck **Dim Viewer when inactive**.
 
-    <!-- screenshot needed: img/gotomypc-dim-viewer.png -->
+    !!! quote ""
+        ![Dim Viewer setting](img/dim-viewer.png)
 
 
 ### Increase the session timeout
