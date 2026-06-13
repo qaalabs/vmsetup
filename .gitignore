@@ -1,8 +1,6 @@
 # This project
-backup/
-bin/
-*.csv
-data/
+docs/PC*.md
+docs/index.md
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
