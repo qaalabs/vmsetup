@@ -5,7 +5,7 @@ dev_addr: '0.0.0.0:8000'
 # Navigation menu
 nav:
   - Allocations: index.md
-  - Instructions: gotomypc-instructions.md
+  - GoToMyPC Instructions: gotomypc-instructions.md
   - Learn on Demand: lod-instructions.md
 
 not_in_nav: |
