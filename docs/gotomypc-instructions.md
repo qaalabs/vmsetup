@@ -3,9 +3,9 @@
 !!! info "You will need the **Email Address**, **Password**, and **Access Code** provided by your trainer to complete these steps."
 
 !!! warning "If you enter an incorrect password 3 times, the account will be locked out for 5 mins!"
-    - It is important that a reconnect **is not attempted** during this period otherwise the time out will be extended
-    - The account will always reset after that 5 min period with the same credentials
-    - **Do not** attempt to change the password and **do not** click the "forgot password" link
+    - It is important that a reconnect **is not attempted** during this period otherwise the time out will be extended.
+    - The account will always reset after that 5 min period with the same credentials.
+    - **Do not** attempt to change the password and **do not** click the "forgot password" link.
 
 
 ## Step 1: Sign in to GoToMyPC
@@ -15,7 +15,13 @@
 2. Enter the **Email Address** and **Password** provided by your trainer and click **Sign In**.
 
     !!! quote ""
-        ![Learner GoToMyPC sign in](img/learner-logon.png)
+        ![Learner GoToMyPC sign in](img/learner-login.png)
+
+??? note "Seeing a different screen? Sign in with the same credentials."
+    Some learners are taken to the main GoToMyPC login page instead. Sign in with the same credentials.
+
+    !!! quote ""
+        ![GoToMyPC main login](img/main-login.png)
 
 
 ## Step 2: Enter the Access Code
@@ -37,6 +43,8 @@ You should now see a Windows desktop similar to this:
 ## Step 4: Customise your GoToMyPC window
 
 Before you start working, change two settings in GoToMyPC to avoid interruptions during the session.
+
+!!! tip "If you can't see the menu bar, then move your cursor to the top of your screen."
 
 ### Turn off Dim Viewer
 
@@ -62,4 +70,4 @@ Before you start working, change two settings in GoToMyPC to avoid interruptions
 
 ---
 
-!!! success "You are now set up and ready to go. Let your trainer know in the WebEx chat that you are all set up with GoToMyPC."
+!!! success "You are now set up and ready to go. Let your trainer know in the chat that you are all set up with GoToMyPC."
