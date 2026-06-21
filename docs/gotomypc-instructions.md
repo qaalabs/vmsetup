@@ -46,11 +46,14 @@ Before you start working, change two settings in GoToMyPC to avoid interruptions
 
 !!! tip "If you can't see the menu bar, then move your cursor to the top of your screen."
 
+In the menu bar at the top of the window, click **Tools** then **Preferences**.
+
+!!! quote ""
+    ![Tools / Preferences](img/tools-preferences.png)
+
 ### Turn off Dim Viewer
 
-1. In the menu bar at the top of the window, click **Tools** then **Preferences**.
-
-2. On the **Viewer** tab, uncheck **Dim Viewer when inactive**.
+1. On the **Viewer** tab, uncheck **Dim Viewer when inactive**.
 
     !!! quote ""
         ![Dim Viewer setting](img/dim-viewer.png)
@@ -66,7 +69,6 @@ Before you start working, change two settings in GoToMyPC to avoid interruptions
 
     !!! quote ""
         ![Set session timeout](img/set-timeout.png)
-
 
 ---
 
