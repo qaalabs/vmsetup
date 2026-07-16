@@ -40,7 +40,13 @@ You should now see a Windows desktop similar to this:
     ![GoToMyPC Windows desktop](img/gotomypc-desktop.png)
 
 
-## Step 4: Customise your GoToMyPC window
+## Step 4: Customise your GoToMyPC Virtual Machine (VM)
+
+### Close all windows
+
+You can close all open windows that may be left over from the VM setup
+
+### Turn off Dim Viewer
 
 Before you start working, change two settings in GoToMyPC to avoid interruptions during the session.
 
@@ -51,13 +57,10 @@ In the menu bar at the top of the window, click **Tools** then **Preferences**.
 !!! quote ""
     ![Tools / Preferences](img/tools-preferences.png)
 
-### Turn off Dim Viewer
-
 1. On the **Viewer** tab, uncheck **Dim Viewer when inactive**.
 
     !!! quote ""
         ![Dim Viewer setting](img/dim-viewer.png)
-
 
 ### Increase the session timeout
 
@@ -69,6 +72,12 @@ In the menu bar at the top of the window, click **Tools** then **Preferences**.
 
     !!! quote ""
         ![Set session timeout](img/set-timeout.png)
+
+### Change the Display Settings
+
+If you want you can increase the i**DisplaySettings > Scale** ~ to something bigger than 100%
+
+You can also change the **Display resolution** to match your monitor
 
 ---
 
