@@ -1,6 +1,7 @@
 # This project
 docs/PC*.md
 docs/index.md
+bin/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
