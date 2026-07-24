@@ -1,6 +1,6 @@
 # Accessing your GoToMyPC Virtual Machine
 
-!!! info "You will need the **Email Address**, **Password**, and **Access Code** provided by your trainer to complete these steps."
+!!! note "Note: You will need the **Email Address**, **Password**, and **Access Code** provided by your trainer to complete these steps."
 
 !!! warning "If you enter an incorrect password 3 times, the account will be locked out for 5 mins!"
     - It is important that a reconnect **is not attempted** during this period otherwise the time out will be extended.
@@ -17,11 +17,11 @@
     !!! quote ""
         ![Learner GoToMyPC sign in](img/learner-login.png)
 
-??? note "Seeing a different screen? Sign in with the same credentials."
-    Some learners are taken to the main GoToMyPC login page instead. Sign in with the same credentials.
+    ??? note "Seeing a different screen? Sign in with the same credentials."
+        Some learners are taken to the main GoToMyPC login page instead. Sign in with the same credentials.
 
-    !!! quote ""
-        ![GoToMyPC main login](img/main-login.png)
+        !!! quote ""
+            ![GoToMyPC main login](img/main-login.png)
 
 
 ## Step 2: Enter the Access Code
@@ -31,8 +31,10 @@
     !!! quote ""
         ![GoToMyPC access code](img/access-code.png)
 
+    !!! warning "Warning: If you enter an incorrect access code 3 times, you will be locked out for 5 mins!"
 
-## Step 3: Connect to your virtual machine
+
+## Step 3: Connect to your VM
 
 You should now see a Windows desktop similar to this:
 
@@ -40,29 +42,30 @@ You should now see a Windows desktop similar to this:
     ![GoToMyPC Windows desktop](img/gotomypc-desktop.png)
 
 
-## Step 4: Customise your GoToMyPC Virtual Machine (VM)
+## Step 4: Customise your VM
 
-### Close all windows
-
-You can close all open windows that may be left over from the VM setup
-
-### Turn off Dim Viewer
-
-Before you start working, change two settings in GoToMyPC to avoid interruptions during the session.
+Before you start working, change the settings in GoToMyPC to avoid interruptions during the session.
 
 !!! tip "If you can't see the menu bar, then move your cursor to the top of your screen."
 
-In the menu bar at the top of the window, click **Tools** then **Preferences**.
+### Task 1: Close all windows
 
-!!! quote ""
-    ![Tools / Preferences](img/tools-preferences.png)
+- You can close all open windows that may be left over from the VM setup.
+- If prompted - **don't** click to upgrade the GoToMyPC configuration.
 
-1. On the **Viewer** tab, uncheck **Dim Viewer when inactive**.
+### Task 2: Turn off Dim Viewer
+
+1. In the menu bar at the top of the window, click **Tools** then **Preferences**.
+
+    !!! quote ""
+        ![Tools / Preferences](img/tools-preferences.png)
+
+2. On the **Viewer** tab, uncheck **Dim Viewer when inactive**.
 
     !!! quote ""
         ![Dim Viewer setting](img/dim-viewer.png)
 
-### Increase the session timeout
+### Task 3: Increase the session timeout
 
 1. In the menu bar at the top of the window, click **Tools** then **Preferences**.
 
@@ -73,12 +76,17 @@ In the menu bar at the top of the window, click **Tools** then **Preferences**.
     !!! quote ""
         ![Set session timeout](img/set-timeout.png)
 
-### Change the Display Settings
+### Task 4: Change the Display Settings
 
-If you want you can increase the i**DisplaySettings > Scale** ~ to something bigger than 100%
+!!! note "Note: You may need to close the VM window and connect again for some settings to be applied."
 
-You can also change the **Display resolution** to match your monitor
+1. If appropriate, you can increase the **DisplaySettings > Scale** to something bigger than 100%
+
+2. You can also change the **Display resolution** to match your monitor
 
 ---
 
-!!! success "You are now set up and ready to go. Let your trainer know in the chat that you are all set up with GoToMyPC."
+!!! success "You are now set up and ready to go!"
+
+!!! info "Let your trainer know in the chat that you are all set up with GoToMyPC."
+

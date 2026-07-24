@@ -1,19 +1,19 @@
 # Accessing Learn On Demand (LOD)
 
-!!! info "You will need a QA Learn On Demand account and an LOD key from your trainer to complete these steps."
+!!! note "Note: You will need a QA Learn On Demand account and an LOD key from your trainer to complete these steps."
 
 
-## Step 1: Go to the QA Learn On Demand website
+## Step 1: Go to the QA LOD website
 
-1. Open a browser and go to [qa.learnondemand.net](https://qa.learnondemand.net/)
+1. Open a browser and navigate to: [qa.learnondemand.net](https://qa.learnondemand.net/)
 
     !!! quote ""
         ![LOD home page](img/lod-home-page.png)
 
 
-## Step 2: Sign in to your LOD account
+## Step 2: Sign in to LOD
 
-!!! note "If you do not have a QA LOD account yet, you need to create one first."
+!!! info "If you do not have a QA LOD account yet, you need to create one first."
     1. Click **Create an Account**
     2. Enter your details using your **work email address**
     3. Click **Save**
@@ -47,7 +47,7 @@ You should see your Learn On Demand dashboard:
         ![Enter LOD key](img/lod-enter-key.png)
 
 
-## Step 5: Launch the virtual machine
+## Step 5: Launch the VM
 
 A course for this week should now appear on your dashboard.
 
@@ -59,31 +59,31 @@ A course for this week should now appear on your dashboard.
         ![Launch VM](img/lod-launch-vm.png)
 
 
-## Step 6: Wait for the lab to build
+## Step 6: Wait for the VM to build
 
-Your LOD lab is now being built. This may take a minute or two.
+Your LOD lab is now being built. This may take a minute or two ...
 
 !!! quote ""
     ![Lab being built](img/lod-lab-being-built.png)
 
-!!! success "When the build is complete, you should see a Windows desktop like this:"
+!!! success "When the build is complete, you should see a Windows desktop similar to this:"
 
 !!! quote ""
     ![LOD Windows desktop](img/lod-desktop.png)
 
 
-## Step 7: Customise the virtual machine
+## Step 7: Customise your VM
 
-The LOD interface includes an instructions pane on the right -- you can remove it to give yourself more screen space.
+The LOD interface includes an instructions pane on the right -x- you can remove it to give yourself more screen space.
 
 1. Click the **Computer icon** in the top-left toolbar.
 
-2. Click **Split Windows** -- the instructions pane can now be minimised.
+2. Click **Split Windows** - the instructions pane can now be minimised.
 
     !!! quote ""
         ![LOD instructions box](img/lod-instructions-box.png)
 
-3. To make the VM fill your screen, click **Full Screen** in the top-left toolbar, or maximise the browser window -- the VM will scale to fit.
+3. To make the VM fill your screen, click **Full Screen** in the top-left toolbar, or maximise the browser window - the VM will scale to fit.
 
     !!! quote ""
         ![Maximise LOD window](img/lod-maximise-window.png)
@@ -93,7 +93,9 @@ The LOD interface includes an instructions pane on the right -- you can remove i
 !!! quote ""
     ![LOD clipboard/text paste](img/lod-clipboard-text.png)
 
-
 ---
 
-!!! success "You are now set up with Learn on Demand. Let your trainer know in the WebEx chat that you are ready to go."
+!!! success "You are now set up with Learn on Demand!"
+
+!!! info "Let your trainer know in the WebEx chat that you are ready to go."
+
